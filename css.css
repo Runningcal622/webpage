@@ -4,6 +4,8 @@ font-family: Georgia, "Times New Roman", serif;}
 
 h1{color: red;}
 
-div.day-box.PREP{color: red;}
+div.day-box.PREP{
+  background-color:white;
+  color: red;}
 
 ul{color: orange;}
