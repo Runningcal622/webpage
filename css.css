@@ -27,6 +27,8 @@ div.day-box.COMPLETED{
   border:5px solid purple;
   padding:10px;
   margin:10px;}
-  
+
+div.day{
+  font-size: 20px}
 
 ul{color: orange;}
