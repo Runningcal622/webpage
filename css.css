@@ -6,6 +6,10 @@ h1{color: red;}
 
 div.day-box.PREP{
   background-color:white;
-  color: red;}
+  color: red;
+  width: 300px;
+  border: 25px solid green;
+  padding: 25px;
+  margin: 25px;}
 
 ul{color: orange;}
