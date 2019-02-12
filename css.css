@@ -7,7 +7,7 @@ h1{color: red;}
 div.day-box.PREP{
   background-color:white;
   color: black;
-  width: 500px;
+  width: 800px;
   border: 5px solid green;
   padding: 10px;
   margin: 10px;}
@@ -15,7 +15,7 @@ div.day-box.PREP{
 div.day-box.CURRENT{
   background-color:white;
   color:black;
-  width:500px;
+  width:800px;
   border:5px solid blue;
   padding:10px;
   margin:10px;}
@@ -23,7 +23,7 @@ div.day-box.CURRENT{
 div.day-box.COMPLETED{
   background-color:white;
   color:black;
-  width:500px;
+  width:800px;
   border:5px solid purple;
   padding:10px;
   margin:10px;}
