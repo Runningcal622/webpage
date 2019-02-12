@@ -20,7 +20,7 @@ div.day-box.CURRENT{
   padding:10px;
   margin:10px;}
 
-div.day-bod.COMPLETED{
+div.day-box.COMPLETED{
   background-color:white;
   color:black;
   width:300px;
