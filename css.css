@@ -10,10 +10,14 @@ img {
   padding: 5px;
   width: 150px;}
 
+div.nav{
+  text-align: center;
+  background-color: white}
+  
+
 div.day-box.PREP{
   background-color:white;
   color: black;
-  width: 800px;
   border: 5px solid green;
   padding: 10px;
   margin: 10px;}
@@ -21,7 +25,6 @@ div.day-box.PREP{
 div.day-box.CURRENT{
   background-color:white;
   color:black;
-  width:800px;
   border:5px solid blue;
   padding:10px;
   margin:10px;}
@@ -29,12 +32,27 @@ div.day-box.CURRENT{
 div.day-box.COMPLETED{
   background-color:white;
   color:black;
-  width:800px;
   border:5px solid purple;
   padding:10px;
   margin:10px;}
 
 div.day{
   font-size: 50px}
+
+div.reading-box{
+  background-color: gray;
+  opacity: 0.5}
+
+div.prep-box{
+  background-color: purple;
+  opacity: 0.5}
+
+a.assignment_link{
+  background-color:gray;
+  opacity:0.5}
+
+div.lab-box{
+  background-color: purple:
+    opacity:0.5}
 
 
