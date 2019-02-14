@@ -1,9 +1,9 @@
 body{
 background-color: #FF9966;
-background-image: url("full-bloom.png");
+background-image: url("qbkls.png");
 font-family: Georgia, "Times New Roman", serif;}
 
-h1{color: white;}
+h1{color: black;}
 
 img {
   border: 1px solid #ddd;
@@ -17,7 +17,7 @@ div.assignment-label{
   
 
 span.username{
-  color: yellow}
+  color: black}
   
 
 div.nav{
