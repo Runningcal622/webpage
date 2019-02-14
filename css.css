@@ -10,6 +10,11 @@ img {
   padding: 5px;
   width: 150px;}
 
+div.assignment-label{
+  text-decoration: underline;
+  font-size: 30px}
+  
+
 span.username{
   color: yellow}
   
