@@ -12,10 +12,9 @@ img {
   width: 150px;}
 
 div.assignment-label{
-  text-decoration: underline;
+  font-family: Impact, Charcoal, sans-serif;
   font-size: 30px}
   
-
 span.username{
   color: black}
   
