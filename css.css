@@ -39,20 +39,24 @@ div.day-box.COMPLETED{
 div.day{
   font-size: 50px}
 
+div.notes{
+  background-color: purple;
+  opacity: 0.25}
+
 div.reading-box{
   background-color: gray;
-  opacity: 0.5}
+  opacity: 0.25}
 
 div.prep-box{
   background-color: purple;
-  opacity: 0.5}
+  opacity: 0.25}
 
 a.assignment_link{
   background-color:gray;
-  opacity:0.5}
+  opacity:0.25}
 
 div.lab-box{
   background-color: purple:
-    opacity:0.5}
+    opacity:0.25}
 
 
