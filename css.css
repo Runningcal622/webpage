@@ -10,6 +10,9 @@ img {
   padding: 5px;
   width: 150px;}
 
+span.username{
+  
+
 div.nav{
   text-align: center;
   background-color: white}
@@ -41,24 +44,19 @@ div.day{
 
 div.notes{
   background-color: purple;
-  opacity: 0.25;
   color: black}
 
 div.reading-box{
-  background-color: gray;
-  opacity: 0.25}
+  background-color: gray;}
 
 div.prep-box{
-  background-color: purple;
-  opacity: 0.25}
-
+  background-color: purple;}
+  
 a.assignment_link{
-  background-color:gray;
-  opacity:0.25}
+  background-color:gray;}
 
 div.lab-box{
-  background-color: purple:
-    opacity:0.25}
+  background-color: purple:}
 
 ul{
   font-size: 20}
