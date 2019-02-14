@@ -53,20 +53,20 @@ div.notes{
   color: black}
 
 div.reading-box{
-  background-color: gray;
-  /*float: left;
+  /*background-color: gray;
+  float: left;
   overflow: auto;*/}
 
 div.prep-box{
-  background-color: purple;
-  /*float: center;
+  /*background-color: purple;
+  float: center;
   overflow: auto;*/}
   
 a.assignment_link{
   background-color:gray;}
 
 div.lab-box{
-  background-color: purple;
+  /*background-color: purple;
   /*float: left;
   overflow: auto;*/}
 
