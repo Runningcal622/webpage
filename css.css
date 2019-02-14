@@ -55,18 +55,21 @@ div.notes{
 
 div.reading-box{
   background-color: gray;
-  float: left}
+  float: left;
+  overflow: auto;}
 
 div.prep-box{
   background-color: purple;
-  float: center}
+  float: center;
+  overflow: auto;}
   
 a.assignment_link{
   background-color:gray;}
 
 div.lab-box{
   background-color: purple;
-  float: left}
+  float: left;
+  overflow: auto;}
 
 ul{
   font-size: 15}
