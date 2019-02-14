@@ -41,7 +41,8 @@ div.day{
 
 div.notes{
   background-color: purple;
-  opacity: 0.25}
+  opacity: 0.25;
+  color: black}
 
 div.reading-box{
   background-color: gray;
