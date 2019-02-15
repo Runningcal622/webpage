@@ -31,7 +31,8 @@ img {
 div.assignment-label{
   font-family: Impact, Charcoal, sans-serif;
   font-size: 30px}
-  
+
+
 span.username{
   background-color:white;
   color: black;
@@ -107,9 +108,10 @@ div.reading-box{
 
 div.prep-box{
   margin-left:200px;}
-  
-a.assignment_link{
+
+div.grading-box{
   margin-left:200px;}
+  
 
 div.lab-box{
   margin-left:200px;}
