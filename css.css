@@ -104,6 +104,9 @@ div.lab-box{
   /*float: left;
   overflow: auto;*/}
 
+div.header{
+  margin-top:0px;
+
 svg{
   padding-top: 100px;}
 
