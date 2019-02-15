@@ -3,7 +3,6 @@
 body{
   
 font-family: 'Shadows Into Light', cursive;
-#text font-family:Georgia;
 margin-left:160px;
 background-image:url("images/animal theme.jpg");
 height:100%;
@@ -12,6 +11,9 @@ background-attachment: fixed;
 background-height:100%;
 background-color:#F4F4F4;
   font-size:25px;}
+
+#text{
+  font-family:Georgia;}
 
 
 a:link{
