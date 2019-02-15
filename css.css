@@ -52,23 +52,7 @@ div.nav{
 .nav a:hover{
   color:#f1f1f1;}
   
-  
 
-/*div.nav{
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  width: 200px;
-  background-color: #f1f1f1;
-  
-  display: block;
-  color: #000;
-  padding: 8px 16px;
-  text-decoration: none;}
-a:hover{
-  background-color: #555;
-  color: white;}*/
-  
 
 div.day-box.PREP{
   background-color:white;
@@ -92,7 +76,8 @@ div.day-box.COMPLETED{
   margin:10px;}
 
 div.day{
-  font-size: 50px}
+  font-size: 30px;
+  background-color: #DCDCDC}
 
 div.notes{
   background-color: purple;
