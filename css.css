@@ -1,6 +1,6 @@
-body{
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light');
 
-<link href="https://fonts.googleapis.com/css?family=Shadows+Into+Light" rel="stylesheet">
+body{
   
 font-family: 'Shadows Into Light', cursive;
 margin-left:160px;
