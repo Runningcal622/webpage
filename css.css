@@ -58,6 +58,9 @@ div.nav{
 
 div.day-box.PREP{
   background-color:white;
+  background-image: url(dragon3.jpg);
+  background-repeat:no-repeat;
+  padding-left:50px;
   color: black;
   border: 10px solid #B54F3B;
   padding: 10px;
@@ -65,9 +68,6 @@ div.day-box.PREP{
 
 div.day-box.CURRENT{
   background-color:white;
-  background-image: url(dragon3.jpg);
-  background-repeat:no-repeat;
-  padding-left:50px;
   color:black;
   border: 10px solid Goldenrod;
   padding:10px;
@@ -82,6 +82,7 @@ div.day-box.COMPLETED{
 
 div.day{
   font-size: 30px;
+  padding-left:50px;
   height:50px;}
 
 div.notes{
