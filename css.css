@@ -68,6 +68,9 @@ div.day-box.PREP{
 
 div.day-box.CURRENT{
   background-color:white;
+  background-image: url(tiger3.jpg);
+  background-repeat:no-repeat;
+  padding-left:50px;
   color:black;
   border: 10px solid Goldenrod;
   padding:10px;
