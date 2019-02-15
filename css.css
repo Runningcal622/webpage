@@ -103,22 +103,16 @@ div.notes{
   float: left;}
 
 div.reading-box{
-  /*background-color: gray;
-  float: left;
-  overflow: auto;*/}
+  margin-left:100px;}
 
 div.prep-box{
-  /*background-color: purple;
-  float: center;
-  overflow: auto;*/}
+  margin-left:100px;}
   
 a.assignment_link{
-  background-color:gray;}
+  margin-left:100px;}
 
 div.lab-box{
-  /*background-color: purple;
-  /*float: left;
-  overflow: auto;*/}
+  margin-left:100px;}
 
 div.header{
   margin-top:0px;
