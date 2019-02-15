@@ -1,8 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light'); @import url('https://fonts.googleapis.com/css?family=Amaranth');
 
 body{
-  
-font-family: 'Shadows Into Light', cursive;
+font-family: 'Amaranth', sans-serif;  
 margin-left:160px;
 background-image:url("images/animal theme.jpg");
 height:100%;
@@ -12,8 +11,6 @@ background-height:100%;
 background-color:#F4F4F4;
   font-size:25px;}
 
-#text{
-  font-family: 'Amaranth', sans-serif;}
 
 
 a:link{
@@ -22,6 +19,7 @@ a:visited{
   color:#1C5D45;}
 
 h1{
+  font-family: 'Shadows Into Light', cursive;
   padding-top:100px;
   text-align:center;
   color: black;
@@ -44,6 +42,7 @@ span.username{
   padding:5px;}
 
 div.nav{
+  font-family: 'Shadows Into Light', cursive;
   height:100%;
   width:160px;
   position:fixed;
@@ -98,6 +97,7 @@ div.day-box.COMPLETED{
   margin:10px;}
 
 div.day{
+  font-family: 'Shadows Into Light', cursive;
   font-size: 30px;
   padding-left:50px;
   height:50px;}
@@ -109,6 +109,9 @@ div.notes{
 
 div.reading-box{
   margin-left:250px;}
+
+div.assignment-label{
+  font-family: 'Shadows Into Light', cursive;}
 
 div.prep-box{
   margin-left:250px;}
