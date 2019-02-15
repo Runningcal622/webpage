@@ -1,6 +1,10 @@
 body{
+
+<style>
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light');
+</style>
+  
 font-family: 'Shadows Into Light', cursive;
-src:url(Shadows_Into_Light.woff);
 margin-left:160px;
 background-image:url("images/animal theme.jpg");
 background-repeat:repeat-x;
