@@ -98,8 +98,9 @@ div.day{
   height:50px;}
 
 div.notes{
-  background-color: purple;
-  color: black}
+  color: black;
+  font-size: 12px;
+  float: left;}
 
 div.reading-box{
   /*background-color: gray;
