@@ -2,6 +2,7 @@ body{
 background-image:url("images/animal theme.jpg");
 background-repeat:repeat-x;
 background-attachment: fixed;
+background-height:100%;
 background-color:White Smoke;
 font-family: Georgia, "Times New Roman", serif;}
 
