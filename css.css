@@ -41,21 +41,21 @@ a:hover{
 div.day-box.PREP{
   background-color:white;
   color: black;
-  border: 10px solid Old Rose;
+  border: 10px solid #B54F3B;
   padding: 10px;
   margin: 10px;}
 
 div.day-box.CURRENT{
   background-color:white;
   color:black;
-  border:10px solid Goldenrod;
+  border: 10px solid Goldenrod;
   padding:10px;
   margin:10px;}
 
 div.day-box.COMPLETED{
   background-color:white;
   color:black;
-  border:10px solid Sea Green;
+  border: 10px solid #1C5D45;
   padding:10px;
   margin:10px;}
 
