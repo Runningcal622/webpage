@@ -81,7 +81,8 @@ div.day{
   font-size: 30px;
   background-image: url(cow3.jpg);
   background-repeat:no-repeat;
-  padding-left:50px;}
+  padding-left:50px;
+  height:75px;}
 
 div.notes{
   background-color: purple;
