@@ -80,7 +80,8 @@ div.day-box.COMPLETED{
 div.day{
   font-size: 30px;
   background-color: #DCDCDC;
-  background-image: url(cow3.jpg) no-repeat;
+  background-image: url(cow3.jpg);
+  background-repeat:no-repeat;
   width:200px;
   height:198px;
   padding-left:200px;}
