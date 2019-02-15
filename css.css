@@ -1,6 +1,9 @@
 body{
-background-color: #FF9966;
-/*background-image: url("qbkls.png");*/
+background-image:url("animal theme.jpg");
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+background-color:White Smoke;
 font-family: Georgia, "Times New Roman", serif;}
 
 h1{color: black;}
