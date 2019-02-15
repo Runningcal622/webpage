@@ -9,7 +9,11 @@ background-height:100%;
 background-color:White Smoke;
 /*font-family: Georgia, "Times New Roman", serif;*/}
 
-h1{color: black;}
+h1{
+  top-padding:50px;
+  text-align:center;
+  background-color:white;
+  color: black;}
 
 img {
   border: 1px solid #ddd;
@@ -24,7 +28,8 @@ div.assignment-label{
 span.username{
   background-color:white;
   color: black;
-  font-size:20px;}
+  font-size:20px;
+  padding:5px;}
 
 div.nav{
   height:100%;
