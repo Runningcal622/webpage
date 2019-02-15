@@ -78,6 +78,9 @@ div.day-box.CURRENT{
 
 div.day-box.COMPLETED{
   background-color:white;
+  background-image: url(snake3.jpg);
+  background-repeat:no-repeat;
+  padding-left:50px;
   color:black;
   border: 10px solid #1C5D45;
   padding:10px;
