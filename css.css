@@ -105,8 +105,8 @@ div.day-box.COMPLETED{
 
 div.day{
   font-size: 30px;
-  padding-left:50px;
-  height:50px;}
+  height:50px;
+  margin:50px;}
 
 div.notes{
   color: black;
