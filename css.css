@@ -187,12 +187,12 @@ div.title{
 form.account_form{
     display: block;}
   
-form.account_form label{
+/*form.account_form label{
   width:4em;
   float: left;
   text-align: right;
   margin-right: 0.5em;
-  display: block;}
+  display: block;}*/
   
   
   image.seat_pic{
