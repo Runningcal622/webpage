@@ -74,10 +74,10 @@ div.partners{
 
 
 div.day-box.PREP{
+  background: rgba(255, 255, 255, 0.8);
   background-image: url(22-2.png);
   background-repeat:no-repeat;
   background-position:right;
-  background: rgba(255, 255, 255, 0.8)
   padding-left:50px;
   padding-top:60px;
   color: black;
