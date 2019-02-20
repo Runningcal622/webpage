@@ -2,7 +2,6 @@
 
 body{
 font-family: 'Amaranth', sans-serif;  
-font-family: 'Shadows Into Light', cursive;
 margin-left:160px;
 background-image:url("images/animal theme.jpg");
 height:100%;
@@ -12,7 +11,11 @@ background_height:100px;
 background-color:#F4F4F4;
 font-size:25px;}
 
+.reading-box{
+  font-family: 'Shadows Into Light', cursive;}
 
+.prep-box{
+  font-family: 'Shadows Into Light', cursive;}
 
 a:link{
   color:#B54F3B;}
