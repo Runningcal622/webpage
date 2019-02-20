@@ -47,7 +47,7 @@ div.nav{
   background-image:url("sideCats2.png");
   background-repeat:repeat-y;
   height:100%;
-  width:200px;
+  width:100px;
   font-family: 'Shadows Into Light', cursive;
   position:fixed;
   z-index:1;
