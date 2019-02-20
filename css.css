@@ -4,7 +4,8 @@ body{
 font-family: 'Amaranth', sans-serif;  
 color:#2f4f4f;
 margin-left:200px;
-background-image:url("backgroundCat.jpg");
+*/background-image:url("backgroundCat.jpg");*/
+background-color:#F3F3F3;
 height:100%;
 background-repeat:repeat;
 background-attachment: fixed;
@@ -75,7 +76,8 @@ div.partners{
 
 div.day-box.PREP{
   background: rgba(255, 255, 255, 0.5);
-  background-image: url(22-2.png);
+  /*background-image: url(22-2.png);*/
+  background-image:url("backgroundCat.jpg");
   background-repeat:no-repeat;
   background-position:right;
   padding-left:50px;
@@ -88,7 +90,8 @@ div.day-box.PREP{
 
 div.day-box.CURRENT{
   background: rgba(255, 255, 255, 0.5);
-  background-image: url(22-2.png);
+  /*background-image: url(22-2.png);*/
+  background-image:url("backgroundCat.jpg");
   background-repeat:no-repeat;
   background-position:right;
   padding-left:50px;
@@ -100,7 +103,8 @@ div.day-box.CURRENT{
 
 div.day-box.COMPLETED{
   background: rgba(255, 255, 255, 0.5);
-  background-image: url(22-2.png);
+  /*background-image: url(22-2.png);*/
+  background-image:url("backgroundCat.jpg");
   background-repeat:no-repeat;
   background-position:right;
   padding-left:50px;
