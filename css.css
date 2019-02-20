@@ -58,7 +58,7 @@ div.nav{
   background-color:#91B6AF;
   background-repeat:repeat-y;
   height:100%;
-  width:130px;
+  width:140px;
   font-family: 'Shadows Into Light', cursive;
   position:fixed;
   z-index:1;
@@ -67,8 +67,7 @@ div.nav{
   overflow-x:hidden;
   padding-top: 20px;
   padding-left:40px;
-  border: 10px solid #91B6AF;
-  border-style: outset;}
+}
 
 .nav a{
   padding:6px 8px 6px 16px;
