@@ -44,7 +44,8 @@ span.username{
   background-color:white;
   color: black;
   font-size:20px;
-  padding:5px;}
+  padding:5px;
+  left:100px;}
 
 div.nav{
   height:100%;
