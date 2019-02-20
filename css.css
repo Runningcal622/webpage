@@ -80,7 +80,7 @@ div.day-box.PREP{
   background-repeat:no-repeat;
   padding-left:50px;
   color: black;
-  border: 10px solid #B54F3B;
+  border: 10px solid #E7AF84;
   padding: 10px;
   margin: 10px;}
 
@@ -90,7 +90,7 @@ div.day-box.CURRENT{
   background-repeat:no-repeat;
   padding-left:50px;
   color:black;
-  border: 10px solid Goldenrod;
+  border: 10px solid #F4DACB;
   padding:10px;
   margin:10px;}
 
@@ -100,7 +100,7 @@ div.day-box.COMPLETED{
   background-repeat:no-repeat;
   padding-left:50px;
   color:black;
-  border: 10px solid #1C5D45;
+  border: 10px solid #91B6AF;
   padding:10px;
   margin:10px;}
 
