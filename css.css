@@ -115,6 +115,7 @@ div.notes{
 div.reading-box{
   margin:5px;
   margin-left:250px;
+  padding:5px;
   /*border: 3px solid #A4A4A4;*/
 }
 
@@ -122,6 +123,7 @@ div.reading-box{
 div.prep-box{
   margin:5px;
   margin-left:250px;
+  padding:5px;
  /* border: 3px solid #A4A4A4;*/
 }
   
@@ -129,6 +131,7 @@ div.prep-box{
 div.grading-box{
   margin:5px;
   margin-left:250px;
+  padding:5px;
   /*border: 3px solid #A4A4A4;*/
 }
   
@@ -136,6 +139,7 @@ div.grading-box{
 div.lab-box{
   margin:5px;
   margin-left:250px;
+  padding:5px;
   /*border: 3px solid #A4A4A4;*/
 }
 
