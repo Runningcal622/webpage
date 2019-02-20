@@ -24,7 +24,7 @@ h1{
 
 img{
   position: relative;
-  border: 1px solid #ddd;
+  border: 5px solid #91B6AF;
   border-radius: 4px;
   padding: 5px;
   width: 150px;}
@@ -74,7 +74,7 @@ div.partners{
 
 
 div.day-box.PREP{
-  background: rgba(255, 255, 255, 0.5);
+  background: #F3F3F3;
   /*background-image: url(22-2.png);*/
   background-image:url("backgroundCat.jpg");
   background-repeat:no-repeat;
@@ -88,7 +88,7 @@ div.day-box.PREP{
 
 
 div.day-box.CURRENT{
-  background: rgba(255, 255, 255, 0.5);
+  background: #F3F3F3;
   /*background-image: url(22-2.png);*/
   background-image:url("backgroundCat.jpg");
   background-repeat:no-repeat;
@@ -101,7 +101,7 @@ div.day-box.CURRENT{
   margin:10px;}
 
 div.day-box.COMPLETED{
-  background: rgba(255, 255, 255, 0.5);
+  background: #F3F3F3;
   /*background-image: url(22-2.png);*/
   background-image:url("backgroundCat.jpg");
   background-repeat:no-repeat;
