@@ -5,7 +5,7 @@ font-family: 'Amaranth', sans-serif;
 color:#2f4f4f;
 margin-left:200px;
 */background-image:url("backgroundCat.jpg");*/
-background-color:#F3F3F3;
+background-color:#E7AF84;
 height:100%;
 background-repeat:repeat;
 background-attachment: fixed;
@@ -46,7 +46,7 @@ span.username{
 div.nav{
 
   background-image:url("sideCats2.png");
-  background-color:#E7AF84;
+  background-color:#91B6AF;
   background-repeat:repeat-y;
   height:100%;
   width:130px;
