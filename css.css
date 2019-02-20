@@ -6,7 +6,7 @@ font-family: 'Shadows Into Light', cursive;
 margin-left:160px;
 background-image:url("images/animal theme.jpg");
 background-size:auto;
-background-repeat:no-repeat;
+background-repeat:repeat-x;
 background-attachment: fixed;
 background-color:#F4F4F4;
 font-size:25px;}
