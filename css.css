@@ -93,7 +93,7 @@ div.day-box.PREP{
   padding-top:60px;
   color: black;
   border: 10px solid #91B6AF;
-  border-style: dotted;
+  border-style: outset;
   border-radius:5px;
   padding: 10px;
   margin: 10px;}
