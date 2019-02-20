@@ -20,7 +20,8 @@ h1{
   font-family: 'Shadows Into Light', cursive;
   text-align:center;
   color: black;
-  font-size:60px;}
+  font-size:60px;
+  margin: 0px;}
 
 img{
   position: relative;
