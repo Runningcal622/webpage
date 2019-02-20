@@ -185,7 +185,7 @@ div.title{
   margin: 10px;}
 
 form.account_form{
-    float: left;}
+    display: block;}
   
 form.account_form label{
   width:4em;
