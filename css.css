@@ -188,7 +188,7 @@ div.title{
   font-size:30px;
   margin: 10px;}
 
-form.account_form{
+/*form.account_form{
     display: block;
     margin-top: 30px;
     margin-left: 30px;}
@@ -204,7 +204,9 @@ form.account_form{
     display:block;}
   
   input{
-    display:block;}
+    display:block;}*/
+  
+  label {float: left; width: 10em; margin-right: 1em; }
   
   
   image.seat_pic{
