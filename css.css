@@ -75,7 +75,7 @@ div.partners{
 div.day-box.PREP{
   background-image: url(22-2.png);
   background-repeat:no-repeat;
-  background-position:center;
+  background-position:left;
   background: rgba(255, 255, 255, 0.8)
   padding-left:50px;
   padding-top:60px;
@@ -88,6 +88,7 @@ div.day-box.PREP{
 div.day-box.CURRENT{
   background-image: url(22-2.png);
   background-repeat:no-repeat;
+  background-position:left;
   padding-left:50px;
   padding-top:60px;
   color:black;
@@ -98,6 +99,7 @@ div.day-box.CURRENT{
 div.day-box.COMPLETED{
   background-image: url(22-2.png);
   background-repeat:no-repeat;
+  background-position:left;
   padding-left:50px;
   padding-top:60px;
   color:black;
@@ -106,6 +108,7 @@ div.day-box.COMPLETED{
   margin:10px;}
 
 div.day{
+  text-align:center;
   font-size: 40px;
   height:40px;}
 
