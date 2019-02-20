@@ -77,6 +77,7 @@ div.day-box.PREP{
   background-image: url(22-2.png);
   background-repeat:no-repeat;
   padding-left:50px;
+  padding-top:60px;
   color: black;
   border: 10px solid #E7AF84;
   padding: 10px;
@@ -94,6 +95,7 @@ div.day-box.CURRENT{
   background-image: url(22-2.png);
   background-repeat:no-repeat;
   padding-left:50px;
+  padding-top:60px;
   color:black;
   border: 10px solid #F4DACB;
   padding:10px;
@@ -103,6 +105,7 @@ div.day-box.COMPLETED{
   background-image: url(22-2.png);
   background-repeat:no-repeat;
   padding-left:50px;
+  padding-top:60px;
   color:black;
   border: 10px solid #91B6AF;
   padding:10px;
