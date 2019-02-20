@@ -200,11 +200,9 @@ div.title{
   margin-right: 0.5em;
   display: block;}*/
   
-  label{
-    display:block;}
-  
-  input{
-    display:block;}*/
+input[type=text] {
+  border: 2px solid red;
+  border-radius: 4px;}
   
   label {float: left; width: 10em; margin-right: 1em; }
   
