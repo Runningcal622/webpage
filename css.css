@@ -200,6 +200,12 @@ form.account_form{
   margin-right: 0.5em;
   display: block;}*/
   
+  label{
+    display:block;}
+  
+  input{
+    display:block;}
+  
   
   image.seat_pic{
     background-color: #91B6AF;}
