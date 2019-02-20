@@ -5,9 +5,10 @@ font-family: 'Amaranth', sans-serif;
 font-family: 'Shadows Into Light', cursive;
 margin-left:160px;
 background-image:url("images/animal theme.jpg");
-background-size:auto;
+height:100%;
 background-repeat:repeat-x;
 background-attachment: fixed;
+background_height:100px;
 background-color:#F4F4F4;
 font-size:25px;}
 
@@ -127,7 +128,7 @@ div.header{
 
 svg{
   position: relative;
-  top: 350px;}
+  margin-top: 350px;}
   
 div.assignment-label{
   font-size: 20px;
