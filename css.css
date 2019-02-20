@@ -207,7 +207,15 @@ input[type=text] {
   border: 2px solid red;
   border-radius: 4px;}
   
-  label {float: left; width: 10em; margin-right: 1em; }
+  /*label {float: left; width: 10em; margin-right: 1em; }*/
+  
+  label{
+    content:"\a";
+    white-space: pre;}
+  
+  input[type=text]{
+    content:"\a";
+    white-space: pre;}
   
   
   image.seat_pic{
