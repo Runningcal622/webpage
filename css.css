@@ -102,6 +102,7 @@ div.day-box.CURRENT{
   margin:10px;}
 
 div.day-box.COMPLETED{
+
   background: #F3F3F3;
   /*background-image: url(22-2.png);*/
   background-image:url("backgroundCat.jpg");
@@ -173,6 +174,13 @@ li{
 
 form.account_form{
     float: left}
+label{
+  width:4em;
+  float: left;
+  text-align: right;
+  margin-right: 0.5em;
+  display: block;}
+  
   
   image.seat_pic{
     background-color: #91B6AF;}
