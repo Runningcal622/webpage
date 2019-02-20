@@ -6,7 +6,7 @@ font-family: 'Amaranth', sans-serif;
 margin-left:200px;
 background-image:url("backgroundCat.jpg");
 height:100%;
-background-repeat:repeat-x;
+background-repeat:repeat;
 background-attachment: fixed;
 background_height:100px;
 font-size:25px;}
