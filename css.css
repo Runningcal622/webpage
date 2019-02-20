@@ -24,9 +24,8 @@ h1{
 
 img{
   position: relative;
-  border: 5px solid #91B6AF;
+  border: 10px solid #91B6AF;
   border-radius: 4px;
-  padding: 5px;
   width: 150px;}
 
 
@@ -82,7 +81,7 @@ div.day-box.PREP{
   padding-left:50px;
   padding-top:60px;
   color: black;
-  border: 10px solid #E7AF84;
+  border: 10px solid #91B6AF;
   border-radius:5px;
   padding: 10px;
   margin: 10px;}
@@ -97,7 +96,7 @@ div.day-box.CURRENT{
   padding-left:50px;
   padding-top:60px;
   color:black;
-  border: 10px solid #F4DACB;
+  border: 10px solid #91B6AF;
   border-radius:5px;
   padding:10px;
   margin:10px;}
