@@ -74,7 +74,7 @@ div.partners{
 
 
 div.day-box.PREP{
-  background-image: url(dragon3.jpg);
+  background-image: url(14-3.jpg);
   background-repeat:no-repeat;
   padding-left:50px;
   color: black;
@@ -83,7 +83,7 @@ div.day-box.PREP{
   margin: 10px;}
 
 div.day-box.CURRENT{
-  background-image: url(tiger3.jpg);
+  background-image: url(15-3.jpg);
   background-repeat:no-repeat;
   padding-left:50px;
   color:black;
@@ -92,7 +92,7 @@ div.day-box.CURRENT{
   margin:10px;}
 
 div.day-box.COMPLETED{
-  background-image: url(snake3.jpg);
+  background-image: url(12-3.jpg);
   background-repeat:no-repeat;
   padding-left:50px;
   color:black;
