@@ -41,7 +41,7 @@ span.username{
   background-color:white;
   color: black;
   font-size:20px;
-  padding:5px;}
+  padding:10px;}
 
 div.nav{
   height:100%;
@@ -125,7 +125,7 @@ div.header{
   margin-top:0px;
 
 svg{
-  margin-top: 150px;}
+  top: 250px;}
   
 div.assignment-label{
   font-size: 20px;
