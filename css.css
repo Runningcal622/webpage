@@ -10,7 +10,7 @@ background-repeat:repeat-x;
 background-attachment: fixed;
 background-height:100%;
 background-color:#F4F4F4;
-  font-size:25px;}
+font-size:25px;}
 
 
 
@@ -25,11 +25,16 @@ h1{
   color: black;
   font-size:60px;}
 
-img {
+img{
   border: 1px solid #ddd;
   border-radius: 4px;
   padding: 5px;
-  width: 150px;}
+  width: 150px
+  height: 150px;}
+
+svg{
+  position: relative;
+  top: 200px;}
 
 div.assignment-label{
   font-size: 30px}
