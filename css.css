@@ -136,6 +136,7 @@ div.notes{
 div.reading-box{
   margin:5px;
   margin-left:250px;
+
   padding:5px;
 }
 
@@ -184,8 +185,9 @@ div.title{
   margin: 10px;}
 
 form.account_form{
-    float: left}
-label{
+    float: left;}
+  
+form.account_form label{
   width:4em;
   float: left;
   text-align: right;
