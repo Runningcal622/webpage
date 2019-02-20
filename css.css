@@ -125,19 +125,22 @@ div.reading-box{
 div.prep-box{
   margin:5px;
   margin-left:250px;
-  border: 3px solid #A4A4A4;}
+  border: 3px solid #A4A4A4;
+  padding:5px;}
   
 
 div.grading-box{
   margin:5px;
   margin-left:250px;
-  border: 3px solid #A4A4A4;}}
+  border: 3px solid #A4A4A4;
+  padding:5px;}
   
 
 div.lab-box{
   margin:5px;
   margin-left:250px;
-  border: 3px solid #A4A4A4;}}
+  border: 3px solid #A4A4A4;
+  padding:5px;}
 
 div.header{
   margin-top:0px;
