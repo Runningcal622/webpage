@@ -2,7 +2,7 @@
 
 body{
 font-family: 'Amaranth', sans-serif;  
-margin-left:200px;
+margin-left:300px;
 background-image:url("backgroundCat.jpg");
 height:100%;
 background-repeat:repeat-x;
@@ -17,7 +17,7 @@ a:visited{
   color:#1C5D45;}
 
 h1{
-  padding-top:100px;
+  padding-top:10px;
   font-family: 'Shadows Into Light', cursive;
   text-align:center;
   color: black;
@@ -74,7 +74,6 @@ div.partners{
 
 
 div.day-box.PREP{
-  background-color:white;
   background-image: url(dragon3.jpg);
   background-repeat:no-repeat;
   padding-left:50px;
