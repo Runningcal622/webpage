@@ -45,11 +45,11 @@ span.username{
 
 div.nav{
   background-image:url("sideCats2.png");
+  background-color:#E7AF84;
   background-repeat:repeat-y;
   height:100%;
   width:130px;
   font-family: 'Shadows Into Light', cursive;
-  background-color:#E7AF84;
   position:fixed;
   z-index:1;
   top:0;
