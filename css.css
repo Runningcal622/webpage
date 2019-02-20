@@ -83,6 +83,7 @@ div.day-box.PREP{
   padding-top:60px;
   color: black;
   border: 10px solid #E7AF84;
+  border-radius:5px;
   padding: 10px;
   margin: 10px;}
 
@@ -97,6 +98,7 @@ div.day-box.CURRENT{
   padding-top:60px;
   color:black;
   border: 10px solid #F4DACB;
+  border-radius:5px;
   padding:10px;
   margin:10px;}
 
@@ -110,6 +112,7 @@ div.day-box.COMPLETED{
   padding-top:60px;
   color:black;
   border: 10px solid #91B6AF;
+  border-radius:5px;
   padding:10px;
   margin:10px;}
 
