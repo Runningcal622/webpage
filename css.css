@@ -46,6 +46,7 @@ span.username{
 div.nav{
   height:100%;
   width:160px;
+  font-family: 'Shadows Into Light', cursive;
   position:fixed;
   z-index:1;
   top:0;
