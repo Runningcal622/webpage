@@ -123,18 +123,22 @@ div.notes{
   float: left;}
 
 div.reading-box{
-  margin-left:250px;}
+  margin-left:250px;
+  border: 5px solid #A4A4A4;}
 
 
 div.prep-box{
-  margin-left:250px;}
+  margin-left:250px;
+  border: 5px solid #A4A4A4;}}
 
 div.grading-box{
-  margin-left:250px;}
+  margin-left:250px;
+  border: 5px solid #A4A4A4;}}
   
 
 div.lab-box{
-  margin-left:250px;}
+  margin-left:250px;
+  border: 5px solid #A4A4A4;}}
 
 div.header{
   margin-top:0px;
