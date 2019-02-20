@@ -23,6 +23,7 @@ h1{
   font-size:60px;}
 
 img{
+  position: relative;
   border: 1px solid #ddd;
   border-radius: 4px;
   padding: 5px;
