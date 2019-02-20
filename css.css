@@ -80,7 +80,15 @@ div.day-box.PREP{
   color: black;
   border: 10px solid #E7AF84;
   padding: 10px;
-  margin: 10px;}
+  margin: 10px;
+  transition: width 2s ease-out;
+    transition: height 2s;
+    transition:scale 2s;
+    transition: border-radius 2s;
+    -webkit-transition-duration: width 2s ease-out;
+    -moz-transition-duration: 2s;
+    -o-transition-duration: 2s;
+     transition-duration: 2s;}
 
 div.day-box.CURRENT{
   background-image: url(22-2.png);
