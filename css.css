@@ -9,8 +9,7 @@ height:100%;
 background-repeat:repeat;
 background-attachment: fixed;
 background_height:100px;}
-a:hover{
-  color:#1c5d45}
+
 
 a:link{
   color:#b54f3b;}
@@ -19,7 +18,8 @@ a:visited{
 
 h1{
   padding-top:10px;
-  font-family: 'Shadows Into Light', cursive  text-align:center;
+  font-family: 'Shadows Into Light', cursive;
+  text-align:center;
   color: black;
   font-size:60px;}
 
