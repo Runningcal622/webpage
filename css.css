@@ -25,12 +25,11 @@ h1{
   color: black;
   font-size:60px;}
 
-img.person_image{
+img{
   border: 1px solid #ddd;
   border-radius: 4px;
   padding: 5px;
-  width: 150px;
-  height: 150px;}
+  width: 150px;}
 
 
 
