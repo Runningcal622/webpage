@@ -100,7 +100,7 @@ div.day-box.PREP{
   padding-top:60px;
   color: black;
   border: 10px solid #91B6AF;
-  border-style: outset;
+  border-style: double;
   border-radius:5px;
   padding: 10px;
   margin: 10px;}
@@ -132,6 +132,7 @@ div.day-box.COMPLETED{
   padding-top:60px;
   color:black;
   border: 10px solid #91B6AF;
+  border-style: double;
   border-radius:5px;
   padding:10px;
   margin:10px;}
