@@ -138,6 +138,7 @@ div.day-box.COMPLETED{
   margin:10px;}
 
 div.day{
+  padding-left: 50px;
   background-image:url("catPaw2.png");
   background-repeat: no-repeat;
   background-position: left top;
