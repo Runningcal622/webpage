@@ -141,7 +141,8 @@ div.day{
   background-repeat: no-repeat;
   background-position: left top;
   font-size: 40px;
-  height:40px;}
+  height:40px;
+  margin-left:50px;}
 
 div.notes{
   color: black;
