@@ -82,6 +82,13 @@ div.nav{
   color:black;
   display:block;}
 
+.account_form label{
+  display:block;}
+
+.account_form input{
+  display:block;}
+  
+
 .nav a:hover{
   color:#f1f1f1;}
 
@@ -209,15 +216,7 @@ div.title{
   margin: 10px;}
 
 
-  
-  label{
-    display: block;
-    margin:15px;}
-  
-  input{
-    display: block;
-    margin:15px;}
-  
+ 
   
   
   image.seat_pic{
