@@ -44,6 +44,10 @@ tr{
   margin:100px;
 }
 
+th, td{
+  padding:50px;
+  margin:20px;}
+
 
 
 div.assignment-label{
