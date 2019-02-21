@@ -49,8 +49,6 @@ span.username{
   position: relative;
   left: 20px;
   color: black;
-  border: 10px solid #F4DACB;
-  border-radius: 4px;
   font-size:20px;
   padding:10px;}
 
@@ -207,7 +205,7 @@ div.title{
   
 input[type=text] {
   border: 2px solid red;
-  border-radius: 4px;}
+  radius: 4px;}
   
   /*label {float: left; width: 10em; margin-right: 1em; }*/
   
