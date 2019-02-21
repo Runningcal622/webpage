@@ -49,6 +49,8 @@ span.username{
   position: relative;
   left: 20px;
   color: black;
+  border: 10px solid #F4DACB;
+  border-radius: 4px;
   font-size:20px;
   padding:10px;}
 
