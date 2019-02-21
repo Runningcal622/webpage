@@ -59,8 +59,6 @@ span.username{
   font-size:20px;
   padding:10px;}
 
-div.person_info{
-  float: left}
 
 div.nav{
 
@@ -102,7 +100,7 @@ div.title{
   color:#f1f1f1;}
 
 div.partners{
-  margin-top:70px;}
+  float:right;}
   
 
 
