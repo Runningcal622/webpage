@@ -84,11 +84,10 @@ div.nav{
 
 .account_form label{
   display:block;
-  padding-top: 20px;}
+  padding-top: 30px;}
 
 .account_form input{
-  display:block;
-  padding-bottom: 20px;}
+  display:block;}
   
 
 .nav a:hover{
