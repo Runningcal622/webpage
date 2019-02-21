@@ -88,6 +88,10 @@ div.nav{
 
 .account_form input{
   display:block;}
+
+div.title{
+  font-size:30px;
+  margin-top:10px;}
   
 
 .nav a:hover{
