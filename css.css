@@ -137,12 +137,14 @@ div.day-box.COMPLETED{
   margin:10px;}
 
 div.day{
+  margin-left:50px;
   background-image:url("catPaw2.png");
   background-repeat: no-repeat;
-  background-attachment: fixed;
   font-size: 40px;
   height:40px;
-  margin-left:50px;}
+}
+
+ 
 
 div.notes{
   color: black;
