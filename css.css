@@ -218,11 +218,7 @@ li{
 div.title{
   font-size:30px;
   margin: 10px;}
-
-
  
-  
-  
   image.seat_pic{
     background-color: #91B6AF;}
   
@@ -230,6 +226,8 @@ div.title{
     width=500px;
     height=200px;}
   
+  tbody tr{
+    padding: 30px;}
   
 
   
