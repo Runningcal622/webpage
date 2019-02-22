@@ -21,6 +21,9 @@ a:link{
 a:visited{
   color:#1c5d45;}
 
+div.sound{
+  background-image:url("meow4.jpg");
+
 h1{
   font-family: 'Shadows Into Light', cursive;
   text-align:center;
