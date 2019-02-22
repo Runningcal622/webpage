@@ -10,7 +10,6 @@ background-repeat:repeat;
 background-attachment: fixed;
 background_height:100px;}
 
-
 a:link{
   color:#b54f3b;}
 a:visited{
@@ -45,7 +44,6 @@ th{
 div.assignment-label{
   font-size: 30px}
 
-
 span.username{
   position: relative;
   left: 20px;
@@ -53,9 +51,7 @@ span.username{
   font-size:20px;
   padding:10px;}
 
-
 div.nav{
-
   background-image:url("sideCats2.png");
   background-color:#91B6AF;
   background-repeat:repeat-y;
@@ -68,8 +64,7 @@ div.nav{
   left:0;
   overflow-x:hidden;
   padding-top: 20px;
-  padding-left:40px;
-}
+  padding-left:40px;}
 
 .nav a{
   padding:6px 8px 6px 16px;
@@ -89,12 +84,8 @@ div.title{
   font-size:30px;
   margin-top:10px;}
   
-
 .nav a:hover{
   color:#f1f1f1;}
-
-  
-
 
 div.day-box.PREP{
   background: #F3F3F3;
@@ -113,7 +104,6 @@ div.day-box.PREP{
 
 div.day-box.PREP:hover{
   border-style:solid;}
-
 
 div.day-box.CURRENT{
   background: #F3F3F3;
@@ -157,13 +147,11 @@ div.day{
   background-repeat: no-repeat;
   background-position: left top;
   font-size: 40px;
-  height:50px;
-}
+  height:50px;}
 
 #text{
   margin-left:50px;}
 
- 
 
 div.notes{
   color: black;
@@ -174,33 +162,28 @@ div.notes{
 div.reading-box{
   margin:5px;
   margin-left:250px;
-
-  padding:5px;
-}
+  padding:5px;}
 
 
 div.prep-box{
   margin:5px;
   margin-left:250px;
-  padding:5px;
-}
+  padding:5px;}
   
 
 div.grading-box{
   margin:5px;
   margin-left:250px;
-  padding:5px;
-}
+  padding:5px;}
   
 
 div.lab-box{
   margin:5px;
   margin-left:250px;
-  padding:5px;
-}
+  padding:5px;}
 
 div.header{
-  margin-top:0px;
+  margin-top:0px;}
 
 svg{
   background-color: #91B6AF;
@@ -228,10 +211,8 @@ div.title{
   textarea.input_text{
     width=500px;
     height=200px;}
-  
 
-
-  table{
+ table{
   margin-top:50px;}
   
 
