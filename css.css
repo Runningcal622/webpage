@@ -23,7 +23,8 @@ a:visited{
   color:#1c5d45;}
 
 div.sound{
-  background-image:url("catPaw3.png");}
+  background-image:url("catPaw3.png");
+  z-index:1;}
 
 h1{
   font-family: 'Shadows Into Light', cursive;
