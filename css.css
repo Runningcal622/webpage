@@ -163,18 +163,15 @@ div.reading-box{
   margin-left:250px;
   padding:5px;}
 
-
 div.prep-box{
   margin:5px;
   margin-left:250px;
-  padding:5px;}
-  
+  padding:5px;}  
 
 div.grading-box{
   margin:5px;
   margin-left:250px;
-  padding:5px;}
-  
+  padding:5px;}  
 
 div.lab-box{
   margin:5px;
@@ -183,30 +180,7 @@ div.lab-box{
 
 div.header{
   margin-top:0px;
-
-svg{
-  background-color: #91B6AF;
-  position: relative;
-  margin-top: 350px;}
   
-
-/*ul{
-  font-size: 15}
-
-li{
-  font-size: 15}
-  
-div.title{
-  font-size:30px;
-  margin: 10px;}
- 
-  image.seat_pic{
-    background-color: #91B6AF;}*/
-  
-  textarea.input_text{
-    width=500px;
-    height=200px;}
-
  table{
   margin-top:50px;}
   
