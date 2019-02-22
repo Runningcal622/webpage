@@ -182,19 +182,15 @@ div.lab-box{
   padding:5px;}
 
 div.header{
-  margin-top:0px;}
+  margin-top:0px;
 
 svg{
   background-color: #91B6AF;
   position: relative;
   margin-top: 350px;}
   
-div.assignment-label{
-  font-size: 20px;
-  font-weight: bold;
-  margin-left:250px;}
 
-ul{
+/*ul{
   font-size: 15}
 
 li{
@@ -205,7 +201,7 @@ div.title{
   margin: 10px;}
  
   image.seat_pic{
-    background-color: #91B6AF;}
+    background-color: #91B6AF;}*/
   
   textarea.input_text{
     width=500px;
