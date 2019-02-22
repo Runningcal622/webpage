@@ -13,10 +13,8 @@ background_height:100px;}
 
 div.header{
 background-image:url("23.png");
+background-repeat:no-repeat;
 background-position:right top;}
-
-div.sound{
-  background-image:url("meow4.jpg");
 
 a:link{
   color:#b54f3b;}
