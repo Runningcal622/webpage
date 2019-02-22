@@ -6,12 +6,14 @@ font-family: 'Amaranth', sans-serif;
 margin-left:200px;
 background-color:#E7AF84;
 height:100%;
-background-image:url("23.png");
-background-position:right top;
 background-image:url("22.png");
 background-position:1300px 0px;
 background-repeat:no-repeat;
 background_height:100px;}
+
+div.header{
+background-image:url("23.png");
+background-position:right top;}
 
 a:link{
   color:#b54f3b;}
