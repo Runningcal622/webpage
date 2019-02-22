@@ -116,7 +116,7 @@ div.day-box.PREP{
   padding: 10px;
   margin: 10px;}
 
-div.day-box.PREP a:hover{
+div.day-box.PREP:hover{
   border-style:solid;}
 
 
