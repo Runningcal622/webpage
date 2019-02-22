@@ -226,7 +226,8 @@ div.title{
     width=500px;
     height=200px;}
   
-table tbody tr{
+
+  tbody{
     padding: 50px;}
   
 
