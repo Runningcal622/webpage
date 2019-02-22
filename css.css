@@ -27,7 +27,6 @@ span.username{
 
 img{
   position: relative;
-  border-image:url("cat-4.jpg");
   border: 10px solid #F4DACB;
   border-radius: 4px;
   width: 150px;}
