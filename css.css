@@ -24,6 +24,7 @@ a:visited{
 
 div.sound{
   background-image:url("catPaw3.png");
+  position:relative;
   z-index:1;}
 
 h1{
