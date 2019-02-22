@@ -135,8 +135,10 @@ div.day-box.CURRENT{
   padding:10px;
   margin:10px;}
 
-div.day-box.COMPLETED{
+div.day-box.PREP:hover{
+  border-style: solid;}
 
+div.day-box.COMPLETED{
   background: #F3F3F3;
   /*background-image: url(22-2.png);*/
   background-image:url("backgroundCat.jpg");
@@ -150,6 +152,9 @@ div.day-box.COMPLETED{
   border-radius:5px;
   padding:10px;
   margin:10px;}
+
+div.day-box.COMPLETED:hover{
+  border-style:solid;}
 
 div.day{
   padding-left: 55px;
