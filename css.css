@@ -37,6 +37,11 @@ span.username{
   border: 10px solid #F4DACB;
   border-radius: 4px;
   width: 150px;}
+.sound{
+  width: 20px;
+  height:20px;
+  border:2px solid black;}
+  
 
  div.assignment_title{
     font-size: 40px;
