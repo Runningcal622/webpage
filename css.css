@@ -32,7 +32,7 @@ h1{
 span.username{
   margin-right:20px;}
 
-img{
+.person_image{
   position: relative;
   border: 10px solid #F4DACB;
   border-radius: 4px;
